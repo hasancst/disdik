@@ -1,0 +1,26 @@
+ERROR - 2022-07-26 17:47:08 --> Table 'dukcapil.employees' doesn't exist
+CRITICAL - 2022-07-26 17:47:08 --> Table 'dukcapil.employees' doesn't exist
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 292.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(292): mysqli->query()
+ 2 SYSTEMPATH/Database/BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute()
+ 3 SYSTEMPATH/Database/BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 5 SYSTEMPATH/Model.php(222): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+ 7 APPPATH/Controllers/Page.php(38): CodeIgniter\BaseModel->findAll()
+ 8 APPPATH/Controllers/Page.php(51): App\Controllers\sessions()
+ 9 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Page->index()
+10 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+11 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+12 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-26 20:30:43 --> Undefined index: module_img
+in APPPATH/Views/Public/HomePage.php on line 139.
+ 1 APPPATH/Views/Public/HomePage.php(139): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/Public/HomePage.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Publics.php(48): view()
+ 6 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Publics->index()
+ 7 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

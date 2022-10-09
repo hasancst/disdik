@@ -1,0 +1,96 @@
+CRITICAL - 2022-08-01 02:50:17 --> move_uploaded_file(Assets/Slider/2db7af9cbd4dfe882f1714c1d0df70b5.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-01 02:56:41 --> move_uploaded_file(Assets/Slider/2f9074e395404853a85c37d534639575.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-01 03:00:34 --> move_uploaded_file(Assets/Slider/8da4c7034edb28a6cc4cdef3067d72bc.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-01 03:09:07 --> move_uploaded_file(Assets/Slider/2c22a6bfdd120107a84f0438aa415be1.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-01 03:16:08 --> move_uploaded_file(Assets/Slider/c6fdf1af9125df152abd3b79a4f7b809.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-01 03:18:00 --> move_uploaded_file(Assets/Slider/2f7fa69c3fbd595e715c9aa15cab7494.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-01 03:20:39 --> move_uploaded_file(Assets/Slider/a8d64586884bea3cdbffb95de1a8e200.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-01 03:23:41 --> move_uploaded_file(Assets/Slider/f94f5b094ea1c42325e40dfaae331d84.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-01 03:26:39 --> move_uploaded_file(Assets/Slider/273efc86c8f77ddbfad2f8895a57b1db.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-01 03:28:49 --> move_uploaded_file(Assets/Slider/bd96b17c5157d8d1a3dae1862ecc0691.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-01 04:07:28 --> move_uploaded_file(Assets/Slider/c6fa6d5c14781377273d9c9c49b46822.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-01 04:10:31 --> move_uploaded_file(Assets/Slider/1d9a5d0c0cf8260722d89bd8d28e6041.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 601.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(601): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

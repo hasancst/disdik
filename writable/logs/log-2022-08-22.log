@@ -1,0 +1,9 @@
+CRITICAL - 2022-08-22 02:40:49 --> imagecreatefrompng(): gd-png: libpng warning: Interlace handling should be turned on when using png_read_image
+in APPPATH/Controllers/Fungsi.php on line 28.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(28): imagecreatefrompng()
+ 3 APPPATH/Controllers/Fungsi.php(623): App\Controllers\UploadGambar()
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

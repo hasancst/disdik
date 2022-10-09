@@ -1,0 +1,49 @@
+CRITICAL - 2022-07-27 03:42:21 --> Undefined variable: slider
+in APPPATH/Views/Public/HomePage.php on line 4.
+ 1 APPPATH/Views/Public/HomePage.php(4): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/Public/HomePage.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Publics.php(48): view()
+ 6 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Publics->index()
+ 7 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-27 04:08:27 --> Undefined offset: 0
+in APPPATH/Views/Admin/Slider.php on line 48.
+ 1 APPPATH/Views/Admin/Slider.php(48): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/Admin/Slider.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Page.php(172): view()
+ 6 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Page->slider()
+ 7 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-27 04:10:09 --> Undefined offset: 0
+in APPPATH/Views/Admin/Slider.php on line 48.
+ 1 APPPATH/Views/Admin/Slider.php(48): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/Admin/Slider.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Page.php(172): view()
+ 6 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Page->slider()
+ 7 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-27 04:11:44 --> move_uploaded_file(Assets/slider/70efecade1b998bcaed1c1f3ad9bbb8b.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 670.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(670): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->editSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-27 11:42:55 --> move_uploaded_file(Assets/Slider/25cd67e8d297aff107412c8f6b7a2678.jpeg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Fungsi.php on line 640.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(640): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->createSlider()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,8 @@
+CRITICAL - 2022-07-25 10:50:43 --> unlink(Assets/informasi/): Is a directory
+in APPPATH/Controllers/Fungsi.php on line 400.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Fungsi.php(400): unlink()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->editInfo()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

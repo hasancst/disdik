@@ -1,0 +1,94 @@
+CRITICAL - 2022-07-24 05:34:16 --> Undefined variable: setting_logo
+in APPPATH/Views/Admin/Setting.php on line 78.
+ 1 APPPATH/Views/Admin/Setting.php(78): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/Admin/Setting.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Page.php(113): view()
+ 6 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Page->setting()
+ 7 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-24 05:36:01 --> Undefined variable: setting_logo
+in APPPATH/Views/Admin/Setting.php on line 78.
+ 1 APPPATH/Views/Admin/Setting.php(78): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/Admin/Setting.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Page.php(113): view()
+ 6 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Page->setting()
+ 7 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-24 09:23:25 --> Undefined variable: setting_logo
+in APPPATH/Views/Admin/Setting.php on line 78.
+ 1 APPPATH/Views/Admin/Setting.php(78): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/Admin/Setting.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Page.php(113): view()
+ 6 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Page->setting()
+ 7 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-24 09:23:38 --> Undefined variable: setting_logo
+in APPPATH/Views/Admin/Setting.php on line 78.
+ 1 APPPATH/Views/Admin/Setting.php(78): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/Admin/Setting.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Page.php(113): view()
+ 6 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Page->setting()
+ 7 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-24 10:10:15 --> Undefined offset: 0
+in APPPATH/Controllers/Publics.php on line 15.
+ 1 APPPATH/Controllers/Publics.php(15): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Publics.php(54): App\Controllers\settingValue()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Publics->profil()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-24 15:54:10 --> Undefined variable: pimpinan_foto
+in APPPATH/Views/Admin/Instansi.php on line 27.
+ 1 APPPATH/Views/Admin/Instansi.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/Admin/Instansi.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Page.php(135): view()
+ 6 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Page->instansi()
+ 7 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-24 15:54:56 --> Undefined offset: 0
+in APPPATH/Controllers/Page.php on line 17.
+ 1 APPPATH/Controllers/Page.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Page.php(121): App\Controllers\settingValues()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Page->instansi()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-24 15:57:34 --> Undefined offset: 0
+in APPPATH/Controllers/Page.php on line 17.
+ 1 APPPATH/Controllers/Page.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Page.php(121): App\Controllers\settingValues()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Page->instansi()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-24 16:15:47 --> Undefined offset: 0
+in APPPATH/Controllers/Page.php on line 17.
+ 1 APPPATH/Controllers/Page.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Page.php(121): App\Controllers\settingValues()
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Page->instansi()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-24 23:30:27 --> Undefined index: logo
+in APPPATH/Controllers/Fungsi.php on line 452.
+ 1 APPPATH/Controllers/Fungsi.php(452): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Fungsi->settingWeb()
+ 3 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
